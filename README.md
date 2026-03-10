@@ -23,3 +23,9 @@ pip install -r requirements.txt
 Run the application:
 
 streamlit run app.py
+
+## Live Demo
+
+Click here to view the live application:
+
+https://expense-tracker-7kgqjuwkcmc3rolvyhflj5.streamlit.app
